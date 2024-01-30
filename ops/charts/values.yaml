@@ -1,0 +1,7 @@
+image:
+  repository: mehr74/kubernetes-machine-learning-demo
+  tag: latest
+  pullPolicy: Always
+
+replicas: 1
+environment: dev

@@ -1,0 +1,5 @@
+apiVersion: v2
+name: sklearn-deployment
+description: A Helm Chart for deploying the sklearn model server
+type: application
+version: 0.1.0
